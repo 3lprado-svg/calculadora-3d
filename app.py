@@ -1,4 +1,3 @@
-
 import streamlit as st
 
 # Configuração da página e visualização no celular/navegador
@@ -85,4 +84,3 @@ if st.button("📊 CALCULAR PREÇO DE VENDA", type="primary"):
     st.markdown("---")
     st.success(f"### 🚀 PREÇO DE VENDA SUGERIDO: **R$ {preco_venda:.2f}**")
     st.caption("O preço sugerido considera o multiplicador para cobrir taxas de cartão/plataformas e gerar lucro líquido real.")
-```
