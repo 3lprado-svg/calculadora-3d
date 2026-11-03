@@ -1,4 +1,4 @@
-python
+
 import streamlit as st
 
 # Configuração da página e visualização no celular/navegador
